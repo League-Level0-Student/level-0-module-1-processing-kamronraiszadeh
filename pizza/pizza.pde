@@ -1,4 +1,4 @@
-import ddf.minim.*;   
+import ddf.minim.;   
 Minim sound;     //at the top of the sketch
 AudioPlayer song;
 void setup(){
